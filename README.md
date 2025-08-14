@@ -1,1 +1,1 @@
-# Veri-D-zenleyici-V1
+# Veri-Duzenleyici-V1
