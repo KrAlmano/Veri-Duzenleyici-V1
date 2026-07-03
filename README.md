@@ -17,10 +17,6 @@ yönetim uygulaması.
 - **Dışa aktarma:** Excel, Word (`.docx`, tablo formatında, kolon seçimli) veya CSV olarak
   kaydetme
 
-## Ekran Görüntüsü
-
-> _Buraya uygulamanın 1-2 ekran görüntüsünü ekle (ör. ana ekran + filtre paneli)._
-
 ## Kullanılan Teknolojiler
 
 - Python 3
