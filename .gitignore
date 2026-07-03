@@ -10,23 +10,17 @@ venv/
 env/
 ENV/
 
-# Paket yöneticileri
 *.egg-info/
 dist/
 build/
 
-# IDE / Editör
 .vscode/
 .idea/
 *.swp
 
-# İşletim sistemi
 .DS_Store
 Thumbs.db
 
-# Ortam değişkenleri (API key vb. varsa)
 .env
 
-# Uygulamaya özel: kullanıcı verisi test amaçlı oluşursa
-# (gerçek kullanıcı dosyaları repoya asla girmemeli)
 Excel_project/test_data/
