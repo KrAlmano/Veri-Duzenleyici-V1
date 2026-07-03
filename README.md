@@ -1,4 +1,3 @@
-# Veri-Duzenleyici-V1
 # Veri Düzenleyici V1
 
 CustomTkinter ile geliştirilmiş, Excel/CSV dosyalarını görsel bir arayüzden filtrelemeyi,
